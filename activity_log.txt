@@ -1,0 +1,7 @@
+2025-09-04 21:27:51.122920 - admin - Logged in
+2025-09-04 21:28:35.920139 - admin - Added student 101
+2025-09-04 21:29:00.146712 - admin - Added student 102
+2025-09-04 21:29:23.815179 - admin - Added student 103
+2025-09-04 21:31:32.636450 - admin - Updated student 102
+2025-09-04 21:31:59.954621 - admin - Deleted student 103
+2025-09-04 21:32:34.893626 - admin - Logged out
